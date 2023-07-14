@@ -1,0 +1,8 @@
+lightning-bolts
+pandas
+pydantic<2
+pytorch-lightning
+ray[air]==2.5.1
+torch
+torchvision
+torchaudio
